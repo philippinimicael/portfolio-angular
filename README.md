@@ -1,4 +1,4 @@
-# Sistema de Autenticação Angular
+# Sistema de Autenticação - Angular
 
 ## Sobre
 Sistema de login e cadastro desenvolvido para estudo de Angular.
