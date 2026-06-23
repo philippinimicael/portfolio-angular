@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.home-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+p{
+    margin-bottom: 2px;
+}
+
+.social-icons{
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+}
+
+i{
+    font-size: 2rem;
+    transition: ease-in-out 0.2s;
+    cursor: pointer;
+}
+
+i:hover{
+    color: #e79476;
+    font-size: 2.1rem;
+}
